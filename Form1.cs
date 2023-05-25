@@ -41,7 +41,7 @@ namespace WinFormsApp1
         List<string> Op³aty = new List<string>()
      
         {
-            "Telefon","Czynsz","Gaz", "Woda","Pr¹d","Ubezepieczenie samochodu"
+            "Telefon","Czynsz","Gaz", "Woda","Pr¹d","Ubezpieczenie samochodu"
         };
 
       
