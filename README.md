@@ -1,5 +1,7 @@
 # Rachunki-dom
-> Aplikacja do spisywania opłat rachunkowych
+> Aplikacja do spisywania opłat w c#
+
+
 
 
 
