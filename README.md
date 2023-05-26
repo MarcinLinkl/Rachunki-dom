@@ -1,5 +1,9 @@
 # Rachunki-dom
-> Aplikacja do spisywania opłat w c#
+> Aplikacja do spisywania opłat domowych, napisana z języku c# i winforms 
+
+
+
+
 
 
 
